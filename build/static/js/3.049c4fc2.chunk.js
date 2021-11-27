@@ -1,0 +1,2 @@
+(this["webpackJsonptodo-app"]=this["webpackJsonptodo-app"]||[]).push([[3],{110:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return o}));var s=n(0),u=n(8),r=n(1);function o(){var t=Object(s.useContext)(u.a),e=t.state,n=t.dispatch,o=e.user;return Object(r.jsxs)("form",{onSubmit:function(t){t.preventDefault(),n({type:"LOGOUT"})},children:["Currently Logged in as User: ",Object(r.jsx)("b",{children:o.username}),Object(r.jsx)("input",{type:"submit",value:"Logout"})]})}}}]);
+//# sourceMappingURL=3.049c4fc2.chunk.js.map

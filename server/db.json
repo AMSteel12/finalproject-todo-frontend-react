@@ -1,0 +1,23 @@
+{
+  "todos": [
+  ],
+  "users": [
+  ],
+  "themes": [
+    {
+      "id": 40,
+      "primaryColor": "dodgerblue",
+      "secondaryColor": "darkorange"
+    },
+    {
+      "id": 50,
+      "primaryColor": "forestgreen",
+      "secondaryColor": "firebrick"
+    },
+    {
+      "id": 60,
+      "primaryColor": "indigo",
+      "secondaryColor": "lightsalmon"
+    }
+  ]
+}
